@@ -1,0 +1,7 @@
+﻿  quan_li_sinh_vien.cpp
+D:\C++\C++\QLSV\quan_li_sinh_vien.cpp(27,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\C++\QLSV\quan_li_sinh_vien.cpp(31,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\C++\QLSV\quan_li_sinh_vien.cpp(34,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\C++\QLSV\quan_li_sinh_vien.cpp(173,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\C++\QLSV\quan_li_sinh_vien.cpp(195,20): warning C4804: '<': unsafe use of type 'bool' in operation
+  QLSV.vcxproj -> D:\C++\C++\x64\Debug\QLSV.exe

@@ -1,0 +1,7 @@
+Trinh Huy Hoang;19;9.8
+Le Van Teo;27;9.5
+Tran Thi Thao;24;10
+Doremon;200;5
+Le Quang Huy Hoang;20;9.5
+Alex;23;7.4
+Nguyen Van A;30;10
